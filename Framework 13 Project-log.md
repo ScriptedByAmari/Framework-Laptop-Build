@@ -179,5 +179,3 @@ This marks the successful completion of my Framework Laptop 13 DIY Build & Dual-
 - Demonstrated skills in system imaging, partitioning, BIOS config, OS installation, troubleshooting, and documentation
 
 This project now serves as both a practical training experience and a portfolio artefact for roles involving IT support, infrastructure, and system administration.
-
-🖐️ High five to Sol — my AI co-pilot throughout this journey.
