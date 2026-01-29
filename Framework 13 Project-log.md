@@ -68,7 +68,8 @@ This gave me the confidence to proceed with dual-boot partitioning, knowing I co
 
 This section contains visual documentation of the build process. Images are organised by step for clarity and ease of reference.
 
-### Step 1 – Unboxing  
+### Step 1 – Unboxing
+
 ![Photo showing unopened parts and packaging] (photos/Unboxing.jpg)
 
 - **Step 2 – Installing RAM**  
