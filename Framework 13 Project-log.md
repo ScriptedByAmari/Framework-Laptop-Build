@@ -45,13 +45,7 @@ Step-by-Step Assembly:
 5. Inserted expansion cards (USB-C, USB-A, DisplayPort)
 6. Screwed in the bezel and secured chassis
 7. Powered on and confirmed POST
-
- Photo placeholders (ready to drag/drop later):
-- Unboxing
-- Installing RAM
-- SSD installation
-- Expansion cards in place
-- First POST / BIOS screen
+   
 
 ## 🔐 Pre-Install Backup Strategy
 
