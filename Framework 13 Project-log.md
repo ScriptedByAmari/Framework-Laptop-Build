@@ -70,7 +70,7 @@ This section contains visual documentation of the build process. Images are orga
 
 ### Step 1 – Unboxing
 
-![Photo showing unopened parts and packaging] (photos/Unboxing.jpg)
+![Photo showing unopened parts and packaging](photos/Unboxing.jpg)
 
 - **Step 2 – Installing RAM**  
   *(Photo of memory sticks being inserted, showing left-side reversed notch)*
