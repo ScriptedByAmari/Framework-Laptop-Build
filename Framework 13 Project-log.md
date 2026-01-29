@@ -80,11 +80,13 @@ This section contains visual documentation of the build process. Images are orga
 
 ![Photo of WD_BLACK SN850X being seated into the M.2 slot](photos/SSD Installation.jpg)
 
-- **Step 4 – Expansion Cards Inserted**  
-  *(Photo of USB-C, USB-A, and DisplayPort cards installed in chassis)*
+### Step 4 – Expansion Cards Inserted
 
-- **Step 5 – First POST / BIOS Screen**  
-  *(Photo of successful power-on with BIOS setup visible)*
+![Photo of USB-C, USB-A, and DisplayPort cards installed in chassis](photos/Expansion Card Installation.jpg)
+
+### Step 5 – First POST / BIOS Screen
+
+![Photo of successful power-on with BIOS setup visible](photos/BIOS Screen.jpg)
 
 
 💾 Operating System Setup
