@@ -72,11 +72,13 @@ This section contains visual documentation of the build process. Images are orga
 
 ![Photo showing unopened parts and packaging](photos/Unboxing.jpg)
 
-- **Step 2 – Installing RAM**  
-  *(Photo of memory sticks being inserted, showing left-side reversed notch)*
+### Step 2 – Installing RAM
 
-- **Step 3 – SSD Installation**  
-  *(Photo of WD_BLACK SN850X being seated into the M.2 slot)*
+![Photo of memory sticks being inserted, showing left-side reversed notch](photos/RAM Installation.jpg)
+
+### Step 3 – SSD Installation
+
+![Photo of WD_BLACK SN850X being seated into the M.2 slot](photos/SSD Installation.jpg)
 
 - **Step 4 – Expansion Cards Inserted**  
   *(Photo of USB-C, USB-A, and DisplayPort cards installed in chassis)*
