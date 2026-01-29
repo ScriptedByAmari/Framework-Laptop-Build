@@ -74,19 +74,19 @@ This section contains visual documentation of the build process. Images are orga
 
 ### Step 2 – Installing RAM
 
-![Photo of memory sticks being inserted, showing left-side reversed notch](photos/RAM Installation.jpg)
+![Photo of memory sticks being inserted, showing left-side reversed notch](photos/RAM%20Installation.jpg)
 
 ### Step 3 – SSD Installation
 
-![Photo of WD_BLACK SN850X being seated into the M.2 slot](photos/SSD Installation.jpg)
+![Photo of WD_BLACK SN850X being seated into the M.2 slot](photos/SSD%20Installation.jpg)
 
 ### Step 4 – Expansion Cards Inserted
 
-![Photo of USB-C, USB-A, and DisplayPort cards installed in chassis](photos/Expansion Card Installation.jpg)
+![Photo of USB-C, USB-A, and DisplayPort cards installed in chassis](photos/Expansion%20Card%20Installation.jpg)
 
 ### Step 5 – First POST / BIOS Screen
 
-![Photo of successful power-on with BIOS setup visible](photos/BIOS Screen.jpg)
+![Photo of successful power-on with BIOS setup visible](photos/BIOS%20Screen.jpg)
 
 
 💾 Operating System Setup
