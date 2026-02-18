@@ -1,55 +1,52 @@
 # Framework Laptop 13 DIY Build (Aug–Sept 2025)
 
-This project documents the full assembly and configuration of a modular Framework Laptop 13 (DIY Edition), from component installation through to a completed dual-boot Windows 11 + Ubuntu setup.
+This repository documents the complete assembly and configuration of a modular Framework Laptop 13 (DIY Edition), culminating in a fully functional Windows 11 + Ubuntu dual-boot system.
 
-The build log captures hardware assembly, BIOS configuration, operating system installation, troubleshooting, and post-installation validation. It serves as both a personal learning exercise and a technical portfolio artefact demonstrating practical IT skills.
+The project demonstrates practical hardware installation, firmware configuration, operating system deployment, recovery planning, and structured technical documentation.  
+It also serves as a portfolio artefact highlighting hands-on skills relevant to IT support, infrastructure, and cross-platform system administration roles.
 
 ---
 
 ## 🔧 Project Scope
 
-- Physical assembly of modular laptop components (RAM, NVMe SSD, expansion cards)
-- BIOS configuration and boot management
-- Windows 11 installation and activation via purchased licence
-- Ubuntu 24.04 installation using manual partitioning
+- Physical assembly of modular components (DDR5 RAM, NVMe SSD, expansion cards)
+- UEFI / BIOS configuration and boot management
+- Windows 11 installation and activation using purchased licence
+- Ubuntu 24.04 installation via manual partitioning
 - GRUB bootloader configuration for dual-boot operation
-- Full system image backup using AOMEI Backupper prior to Linux installation
-- Documentation of troubleshooting decisions and build variations
+- Full system image backup using AOMEI Backupper prior to Linux deployment
+- Documented troubleshooting decisions and build variations
 
 ---
 
 ## 🛠 Skills Demonstrated
 
-- Hardware assembly and component handling
-- UEFI / BIOS configuration
-- Disk partitioning and filesystem management
-- Dual-boot system implementation
-- System imaging and recovery planning
-- Structured technical documentation
+- Hardware assembly and safe component handling  
+- UEFI / BIOS configuration  
+- Disk partitioning and filesystem management  
+- Dual-boot implementation  
+- System imaging and recovery planning  
+- Clear, structured technical documentation  
 
 ---
 
 ## 📷 Build Photos
 
-Photos from the assembly and first boot process are available in the `photos/` directory and embedded in the full project log.
+Assembly and first-boot photos are available in the `photos/` directory and embedded within the full project log.
 
 ---
 
-## 📄 Full Documentation
+## 📄 Full Project Log
 
-The complete technical record of this project can be found here:
-
-➡ **[Framework 13 Project Log](framework-13-project-log.md)**
+➡ **[View the complete build documentation](framework-13-project-log.md)**
 
 ---
+
 
 ## 📂 Repository Structure
--photos/ → Build photos
--Framework 13 Project-log.md → Full project documentation
+-photos/ → Build images
+
+-Framework 13 Project-log.md → Full technical documentation
+
 -README.md → Project overview
-
-
----
-
-This project reflects practical, hands-on experience assembling hardware and configuring a cross-platform development environment.
 
