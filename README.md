@@ -44,9 +44,9 @@ The complete technical record of this project can be found here:
 ---
 
 ## 📂 Repository Structure
-photos/ → Build photos
-Framework 13 Project-log.md → Full project documentation
-README.md → Project overview
+-photos/ → Build photos
+-Framework 13 Project-log.md → Full project documentation
+-README.md → Project overview
 
 
 ---
